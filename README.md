@@ -71,7 +71,8 @@ Place it inside:
 ```php
 $conn = new mysqli("localhost", "root", "", "task_management");
 ```
-6.Open the App in Browser
+
+6. **Open the App in Browser** 
 
 
 
