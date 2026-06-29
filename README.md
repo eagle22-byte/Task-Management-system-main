@@ -5,25 +5,25 @@ A modern, responsive **Task Management Web Application** built with **PHP**, **M
 
 ---
 
- 📌 Project Features
+ Project Features
 
-- 🔐 **User Registration and Login**
-- ✅ **Dashboard with Task Summary**
-- ➕ **Add New Tasks**
-- ✏️ **Edit and Delete Tasks**
-- 📅 **Set Due Dates**
-- 🔄 **Track Task Status** (Pending, In Progress, Completed)
-- 📊 **Visual Task Statistics**
-- 📁 Clean UI with a sidebar and rainbow-themed status badges
-- 🚪 **Logout Functionality**
-
----
+-  **User Registration and Login**
+-  **Dashboard with Task Summary**
+-  **Add New Tasks**
+-  **Edit and Delete Tasks**
+-  **Set Due Dates**
+-  **Track Task Status** (Pending, In Progress, Completed)
+-  **Visual Task Statistics**
+-  Clean UI with a sidebar and rainbow-themed status badges
+-  **Logout Functionality**
 
 ---
 
-## ⚙️ Setup Instructions
+---
 
-### ✅ Requirements
+## Setup Instructions
+
+### Requirements
 
 - PHP 7.x or later
 - MySQL / MariaDB
@@ -31,7 +31,7 @@ A modern, responsive **Task Management Web Application** built with **PHP**, **M
 
 ---
 
-### 🚀 How to Run the Project Locally
+### How to Run the Project Locally
 
 1. **Download or Clone this Repository**  
 
