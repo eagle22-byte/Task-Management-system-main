@@ -5,7 +5,7 @@ A modern, responsive **Task Management Web Application** built with **PHP**, **M
 
 ---
 
- Project Features
+ ## Project Features
 
 -  **User Registration and Login**
 -  **Dashboard with Task Summary**
